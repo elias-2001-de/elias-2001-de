@@ -15,6 +15,8 @@
 
 - Know about my experiences [https://eeli1.github.io/resume](https://eeli1.github.io/resume)
 
+- ⚡ Fun fact **I play piano**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elias-maier-4b8b75219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-maier-4b8b75219" height="30" width="40" /></a>
