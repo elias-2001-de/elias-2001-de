@@ -13,9 +13,9 @@
 
 - How to reach me **maierelias13@gmai.com**
 
-- Know about my experiences [https://eeli1.github.io/resume](https://eeli1.github.io/resume)
+- Know about my experiences [https://eeli1.github.io/my/resume](https://eeli1.github.io/my/resume)
 
-- ⚡ Fun fact **I play piano**
+- Fun fact **I play piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
