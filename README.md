@@ -3,11 +3,11 @@
 
 - My favorite programming language **Rust 🦀**
 
-- I’m currently learning **machine learning and os**
+- I’m currently learning **wasm**
 
 - My biggest project [open-gal](https://github.com/eeli1/open-gal)
 
-- I am interested in **ml os-dev game-dev "hacking" blockchain**
+- I am interested in **ml os games web "hacking"**
 
 - All of my projects are available at [https://eeli1.github.io/](https://eeli1.github.io/)
 
