@@ -70,6 +70,8 @@
     </a>
 </p>
 
+
+<h3 align="left">My Github stats:</h3>
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=eeli1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
