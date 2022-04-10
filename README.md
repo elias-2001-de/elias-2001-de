@@ -11,7 +11,7 @@
 
 - All of my projects are available at [https://eeli1.github.io/](https://eeli1.github.io/)
 
-- How to reach me **maierelias13@gmai.com**
+- How to reach me **maierelias13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
