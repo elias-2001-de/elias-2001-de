@@ -1,0 +1,34 @@
+{
+    "url": "https://eelias13.github.io/",
+    "ssg_repo": "https://github.com/eelias13/eelias13.github.io",
+    "username":"Elias Maier",
+    "home_content": {
+        "md_text": "# this is my home page"
+    },
+    "about_me": {
+        "md_url": "https://raw.githubusercontent.com/eelias13/eelias13/main/README.md"
+    },
+    "about_site": null,
+    "projects": [
+        {
+            "name": "open-gal",
+            "repo_url": "https://github.com/eelias13/open-gal-editor",
+            "out_folder": "build",
+            "description": "open-gal is a hardware description language for generic array logic chips (gal)",
+            "readme": {
+                "md_url": "https://raw.githubusercontent.com/eelias13/open-gal/main/README.md"
+            }
+        },
+        {
+            "name": "func-checker",
+            "repo_url": "https://github.com/eelias13/func-checker",
+            "out_folder": "build",
+            "description": "this tool helps you solving boolean function",
+            "readme": {
+                "md_text": "TODO"
+            }
+        }
+    ],
+    "blogs": [],
+    "tutorials": []
+}
