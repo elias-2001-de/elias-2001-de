@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elias
 
-## A passionate software developer from Germany 🇩🇪
+### A passionate software developer from Germany 🇩🇪
 
 - My favorite programming language **Rust 🦀**
 
