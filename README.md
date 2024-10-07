@@ -8,7 +8,7 @@
 
 - My biggest project [open-gal](https://github.com/eelias13/open-gal)
 
-- I am interested in **ml, os, games, web and cyber security**
+- I am interested in **robotics, web and cyber security**
 
 - All of my projects are available at [https://eelias13.github.io/](https://eelias13.github.io/)
 
