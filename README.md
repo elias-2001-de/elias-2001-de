@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Elias
 
-### I'm a passionate software developer from Germany 🇩🇪.
+### I'm a full-stack software developer from Germany 🇩🇪.
 
-- **🔗 Projects & Portfolio**: Explore all my projects on my [GitHub Page](https://eelias13.github.io/).
+- **🔗 Projects & Portfolio**: Explore all my projects on my [GitHub Page](https://elias-2001-de.github.io/).
 - **💡 Interests**: I'm particularly interested in **web development**, **robotics**, **networking** and **systems programming**.
 - **🌱 Currently Learning**: I'm diving deeper into **WebAssembly (WASM)** to expand my web and system development skills.
 - **🎨 Hobbies**: My Hobbies are **hiking** and **cooking**.
